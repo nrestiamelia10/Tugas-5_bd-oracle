@@ -1,8 +1,10 @@
 1. Membuat koneksi dari oracle ke Bahasa pemrograman 
 ![image](https://user-images.githubusercontent.com/45691711/144710419-5866f03f-f34d-4991-8468-a5d3822c6b62.png)
 
+
 2. Membuat view dalam database masing2
 ![VIEW](https://user-images.githubusercontent.com/45691711/144711357-1a40adc0-49b5-4c6d-9be4-4731a93e73d5.png)
+
 ![A](https://user-images.githubusercontent.com/45691711/144711415-e872e091-c3b5-4bc5-9a2f-a913276029cc.png)
 
 
