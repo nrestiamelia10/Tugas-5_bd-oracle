@@ -9,11 +9,18 @@
 
 
 3. Membuat halaman home/beranda
- ![c](https://user-images.githubusercontent.com/45691711/144711764-c1b0f643-3f4e-40f1-ab1a-df4079a6c25c.png)
+ ![e](https://user-images.githubusercontent.com/45691711/145219569-5b518b7d-f410-4954-b1a2-aa233dda9c3e.png)
 
 4. gunakan query count unutk menampilkan jumlah data dari view
-![b](https://user-images.githubusercontent.com/45691711/144711541-da431a56-3c84-47a5-8777-d5a821d2a936.png)
+![e](https://user-images.githubusercontent.com/45691711/145219569-5b518b7d-f410-4954-b1a2-aa233dda9c3e.png)
 
 5. Buat menu tampil data unutk master data
-![d](https://user-images.githubusercontent.com/45691711/144711847-fd5bfa11-9ade-4629-aaf1-361e1852ce58.png)
+![barang](https://user-images.githubusercontent.com/45691711/145223564-1972ba6b-db26-4a5c-ae90-16b76dffc4f9.png)
 
+![jenis barang](https://user-images.githubusercontent.com/45691711/145223756-e50ad73d-af68-4b61-b81c-dcdb49620a01.png)
+
+![pembelian](https://user-images.githubusercontent.com/45691711/145223769-680729ba-a67f-430d-b277-6b78ecba7148.png)
+
+![transaksi](https://user-images.githubusercontent.com/45691711/145223795-30070488-b5a9-4dfb-b541-c253b0d05f5e.png)
+
+![kasir](https://user-images.githubusercontent.com/45691711/145223816-cc50bfaf-8820-4206-af5a-743b3cb805ee.png)
